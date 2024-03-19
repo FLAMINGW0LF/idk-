@@ -19,3 +19,4 @@ copy-item $DesktopPath\Porno.lnk $outfolder\porno.lnk
 #images
 $outfolder=[Environment]::GetFolderPath("MyPictures")
 copy-item $DesktopPath\Porno.lnk $outfolder\porno.lnk
+
